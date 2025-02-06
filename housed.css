@@ -107,3 +107,7 @@ img{
 .nav ul li a:hover{
     color: rgba(128, 128, 128, 0.43);
 }
+
+main{
+    background-color:  rgba(21, 68, 143, 0.826);
+}
